@@ -24,7 +24,7 @@ Tools & Platforms: Git, GitHub, Vercel, Firebase, Docker
 
 ## 🔥 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bensonseverino=anuraghazra)](https://github.com/bensonseverino/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensonseverino)](https://github.com/bensonseverino/github-readme-stats)
 
 Thanks for stopping by! 🚀
 
