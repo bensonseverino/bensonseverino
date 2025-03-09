@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-Am a multifaceted creative professional with expertise in web development, graphic design, and fashion design. As a web developer,I specialize in front-end development, focusing on intuitive UI/UX and interactive web experiences, with a growing proficiency in React and JavaScript. My background in graphic design and fashion design is showcased through Mambo Beard, my streetwear brand for bearded men, which I've built over the past 8 years. Passionate about blending creativity with technical skills, I thrive at the intersection of design, branding, and digital innovation.
+Am a multifaceted creative professional with expertise in web development, graphic design, and fashion design. As a web developer,I specialize in front-end development, focusing on intuitive UI/UX and interactive web experiences, with a growing proficiency in React and JavaScript. My background in graphic design and fashion design is showcased through Mambo Beard, my streetwear brand for bearded men, which I've built over the past 3 years. Passionate about blending creativity with technical skills, I thrive at the intersection of design, branding, and digital innovation.
 
 ## 🛠 Tech Stack
 - Frontend: React, Remix, Next.js, Tailwind CSS, Pug
