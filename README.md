@@ -11,7 +11,7 @@
 <div align="center">
  
 ##  🔭 I’m currently working on ** 
- 🚀 A MERN stack e-commerce application using Remix and MongoDB, including user authentication.
+ 🚀 A MERN stack e-commerce application using Remix and MongoDB, including user authentication. <br>
   🎨 Enhancing UI/UX designs for better user experiences.**
  
  ## 🌱 I’m currently learning **Azure Deployment, Supabase, **
