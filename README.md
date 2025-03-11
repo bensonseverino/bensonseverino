@@ -10,15 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** 
-- 🚀 A MERN stack e-commerce application using Remix and MongoDB, including user authentication.
-- 🎨 Enhancing UI/UX designs for better user experiences.**
+##  🔭 I’m currently working on ** 
+ 🚀 A MERN stack e-commerce application using Remix and MongoDB, including user authentication.
+  🎨 Enhancing UI/UX designs for better user experiences.**
  
- 🌱 I’m currently learning **Azure Deployment, Supabase, **
+ ## 🌱 I’m currently learning **Azure Deployment, Supabase, **
 
 💬 Ask me about **Node.js, React, Firebase... or anything React related**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+# ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
