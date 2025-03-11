@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer from in Kenya</h3>
 
-<br/>
 
 <div align="center">
  
@@ -16,10 +15,10 @@
  
  ## 🌱 I’m currently learning 
  Azure Deployment <br>
- Supabase,
+ Supabase
 
 ## 💬 Ask me about 
-Node.js, React, Firebase... or anything React related**
+Node.js, React, Firebase... or anything React related
 
 # ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -58,24 +57,22 @@ Node.js, React, Firebase... or anything React related**
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    
  [![bensons's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensonseverino)](https://github.com/bensonseverino/github-readme-stats)
+
+Thanks for stopping by! 🚀
+ 
 </div>
 
-<br/><br/>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 
 
 
 <!--# Hi there, I'm Benson Morris Severino! 👋
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
 
 ## 🚀 About Me
