@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Benson+Morris!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from in Kenya</h3>
+<h3 align="center">A passionate software developer in Kenya</h3>
 
 
 <div align="center">
@@ -20,7 +20,7 @@
 ## 💬 Ask me about 
 Node.js, React, Firebase... or anything React related
 
-# ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+### ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -34,7 +34,6 @@ Node.js, React, Firebase... or anything React related
  
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -43,16 +42,6 @@ Node.js, React, Firebase... or anything React related
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
